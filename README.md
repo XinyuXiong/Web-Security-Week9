@@ -4,7 +4,7 @@
 <img src='Honeypot.png' title='Honeypot' width='' alt='' />
 
 ## Any issues you encountered
-I spent long time to figure out how to set up MHN Admin VM and deploy honeypot under the instruction of CodePath.
+MHN Admin VM and deploy honeypot are very hard.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
@@ -32,4 +32,4 @@ I spent long time to figure out how to set up MHN Admin VM and deploy honeypot u
 <img src='HoneypotNetwork.gif' title='Honeypot Network' width='' alt='' />
 
 ## Any unresolved questions raised by the data collected
-How do I determine which attack is a malware?
+Decide which attach is a malware?
